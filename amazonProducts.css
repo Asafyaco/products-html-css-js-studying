@@ -1,0 +1,50 @@
+html,
+body {
+    /* ensure the available document space is the full height of the viewport */
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: yellow;
+    height: 65px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+#input_text {
+    width: 400px;
+    padding: 3px;
+}
+
+.sideBar {
+    background-color: blanchedalmond;
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+}
+
+.footer {
+    background-color: navy;
+    color: white;
+    height: 65px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main {
+    display: inline;
+}
+
+.Products_line1 {
+    width: 40%;
+    display: inline;
+}
+
+#pants1 {
+    width: 200px;
+    height: 200px;
+}
